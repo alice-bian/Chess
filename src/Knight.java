@@ -11,7 +11,7 @@ import javax.imageio.ImageIO;
 
 public class Knight extends ChessPiece {
     
-    // create image of Knight
+    // create image of Knight 
     private BufferedImage img;
 
     public Knight(Color c, int x, int y, int l) {
