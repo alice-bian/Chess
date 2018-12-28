@@ -11,7 +11,7 @@ import javax.imageio.ImageIO;
 
 public class Queen extends ChessPiece {
     
-    // create image of Queen
+    // create image of Queen 
     private BufferedImage img;
 
     public Queen(Color c, int x, int y, int l) {
