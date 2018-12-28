@@ -3,7 +3,7 @@ import java.awt.Graphics;
 import java.util.*;
 
 
-public abstract class ChessPiece {
+public abstract class ChessPiece { 
     
     protected Color color;
     
