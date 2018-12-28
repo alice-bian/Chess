@@ -1,7 +1,3 @@
-/**
- * @version 2.1, Apr 2017
- */
-
 // imports necessary libraries for Java swing
 import java.awt.*;
 import java.awt.event.*;
@@ -12,7 +8,7 @@ import javax.swing.*;
  */
 public class Game implements Runnable {
     public void run() {
-        // NOTE : recall that the 'final' keyword notes immutability even for local variables.
+        // NOTE : the 'final' keyword notes immutability even for local variables.
 
         // Top-level frame in which game components live
         // Be sure to change "TOP LEVEL FRAME" to the name of your game
