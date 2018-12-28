@@ -11,7 +11,7 @@ import javax.imageio.ImageIO;
 
 public class Rook extends ChessPiece {
     
-    // create image of Rook
+    // create image of Rook 
     private BufferedImage img;
 
     public Rook(Color c, int x, int y, int l) {
