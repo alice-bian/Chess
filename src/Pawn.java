@@ -11,7 +11,7 @@ import javax.imageio.ImageIO;
 
 public class Pawn extends ChessPiece {
     
-    // create image of Pawn
+    // create image of Pawn 
     private BufferedImage img;
 
     public Pawn(Color c, int x, int y, int l) {
