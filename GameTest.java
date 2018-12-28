@@ -10,7 +10,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-public class GameTest {
+public class GameTest { 
     private GameCourt board;
 
     @Before
