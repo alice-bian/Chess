@@ -32,7 +32,7 @@ public class King extends ChessPiece {
     
     public String getType() {
         return "KING";
-    }
+    } 
     
     public void draw(Graphics g) {
         g.drawImage(img, this.getXPos() + 10, this.getYPos() + 10, 30, 30, null); 
