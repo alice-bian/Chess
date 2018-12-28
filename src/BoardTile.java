@@ -3,7 +3,7 @@ import javax.swing.*;
 
 
 public class BoardTile extends JPanel {
-    public static final int HEIGHT = 50;
+    public static final int HEIGHT = 50; 
     public static final int WIDTH = 50;
     
     private int px; // sets x-location of BoardTile
